@@ -1,4 +1,4 @@
-### Hello, I'm Asadullah Nadeem 👋
+### Hi there,i'm Asadullah Nadeem
 I'm an Android developer from India with 2 years of experience, but I am good at Android App development & I want to make my career in Android App Development.
 
 <p align="left"><a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt=""/></a> </p>
