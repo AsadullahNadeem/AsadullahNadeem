@@ -1,6 +1,6 @@
 ### Hello, I'm Asadullah Nadeem 👋
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asadullahnadeem&label=Profile%20views&color=000000&style=flat" alt="asadullahnadeem" /> </p>
+<p align="left"><a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt=""/></a> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=asadullahnadeem&label=Profile%20views&color=000000&style=flat" alt="asadullahnadeem" /></p>
 
 ![2000_600px](https://user-images.githubusercontent.com/88024587/179020750-cee0e0ae-fd01-4bd3-919b-80e035dadce7.gif)
 
