@@ -6,9 +6,6 @@ I'm an Android developer from India with 2 years of experience, but I am good at
 
 ![2000_600px](https://user-images.githubusercontent.com/88024587/179020750-cee0e0ae-fd01-4bd3-919b-80e035dadce7.gif)
 
-![Android-Compose-1 0-header-v2](https://user-images.githubusercontent.com/88024587/179026529-fc462e50-ccdd-482a-b1b8-929315ef8e6e.png)
-
-![image](https://user-images.githubusercontent.com/88024587/179027246-d12dfdbe-87b3-42cf-bf9b-3dfef8d27e22.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
