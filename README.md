@@ -1,4 +1,5 @@
 ### Hello, I'm Asadullah Nadeem 👋
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ![2000_600px](https://user-images.githubusercontent.com/88024587/179020750-cee0e0ae-fd01-4bd3-919b-80e035dadce7.gif)
 
@@ -6,9 +7,6 @@
 <h3 align="center">I Am Android developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asadullahnadeem&label=Profile%20views&color=000000&style=flat" alt="asadullahnadeem" /> </p>
-
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,13 +19,13 @@
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=gruvbox&no-frame=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=AsadullahNadeem&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
 
 ---
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ryo-ma&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryo-ma&layout=compact" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=AsadullahNadeem&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsadullahNadeem&layout=compact" />
 </div>
