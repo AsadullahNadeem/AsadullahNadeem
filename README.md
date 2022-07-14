@@ -1,4 +1,8 @@
 ### Hello, I'm Asadullah Nadeem 👋
+
+I'm an Android developer.
+I'm from India. I'm 18 years old. I am an Android app developer with 2 years of experience, but I am good at Android App development & I don't have web development experience and don’t like it. I want to make my career in Android App Development.
+
 <p align="left"><a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt=""/></a> </p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=asadullahnadeem&label=Profile%20views&color=000000&style=flat" alt="asadullahnadeem" /></p>
 
