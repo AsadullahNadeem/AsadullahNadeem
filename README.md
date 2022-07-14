@@ -10,9 +10,6 @@ I'm an Android developer from India with 2 years of experience, but I am good at
 
 ![image](https://user-images.githubusercontent.com/88024587/179027246-d12dfdbe-87b3-42cf-bf9b-3dfef8d27e22.png)
 
-
-<h3 align="center">I Am Android developer from India</h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/asadullahnadeeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asadullahnadeeem" height="30" width="40" /></a>
