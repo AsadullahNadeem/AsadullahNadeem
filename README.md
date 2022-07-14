@@ -1,7 +1,6 @@
 ### Hello, I'm Asadullah Nadeem 👋
 
-<!--
-**AsadullahNadeem/AsadullahNadeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 <h3 align="center">I Am Android developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asadullahnadeem&label=Profile%20views&color=0e75b6&style=flat" alt="asadullahnadeem" /> </p>
@@ -29,4 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asadullahnadeem&" alt="asadullahnadeem" /></p>
 
--->
+
