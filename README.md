@@ -32,4 +32,4 @@ I'm an Android developer from India with 2 years of experience, but I am good at
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/https://ko-fi.com/asadullahnadeem"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/asadullahnadeem" /></a></p><br><br>
+<p><a href="https://ko-fi.com/asadullahnadeem"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/asadullahnadeem" /></a></p><br><br>
